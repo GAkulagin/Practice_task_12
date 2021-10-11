@@ -16,7 +16,7 @@ namespace Task_12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bla bla bla");
+            Console.WriteLine("Сравнение методов сортировки Шелла и поразрядной сортировки !!!Cool!!!");
             Console.WriteLine();
 
             int size = InputInteger(50, 250, "Введите размер массива");
