@@ -16,10 +16,10 @@ namespace Task_12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Сравнение методов сортировки Шелла и поразрядной сортировки");
+            Console.WriteLine("Сравнение методов сортировки Шелла и поразрядной сортировки !!!Cool!!!");
             Console.WriteLine();
 
-            int size = InputInteger(1, 1000, "Введите размер массива");
+            int size = InputInteger(10, 2000, "Введите размер массива");
             int swapCount = 0;  // Счетчик перестановок
             int compCount = 0;  // Счетчик сравнений
 
