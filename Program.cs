@@ -19,7 +19,7 @@ namespace Task_12
             Console.WriteLine("Сравнение методов сортировки Шелла и поразрядной сортировки !!!Cool!!!");
             Console.WriteLine();
 
-            int size = InputInteger(10, 2000, "Введите размер массива");
+            int size = InputInteger(50, 250, "Введите размер массива");
             int swapCount = 0;  // Счетчик перестановок
             int compCount = 0;  // Счетчик сравнений
 
